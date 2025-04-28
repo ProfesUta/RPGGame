@@ -2953,3 +2953,1141 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.28-11.52.41:414][ 93]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2028.852783
 [2025.04.28-11.52.41:604][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.28-11.52.41:604][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2029.033936, Update Interval: 301.671814
+[2025.04.28-11.54.29:869][133]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-11.54.29:869][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-11.54.29:996][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.28-11.54.30:328][169]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.28-11.54.30:328][169]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-11.54.30:328][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-11.54.30:384][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.28-11.54.30:854][222]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-11.54.30:854][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-11.54.30:903][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.28-11.54.31:257][261]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.28-11.54.31:257][261]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-11.54.31:257][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-11.54.31:328][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.28-11.55.21:384][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.28-11.55.21:386][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2025.04.28-11.55.21:387][348]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BD_AI] ([1] browsable assets)...
+[2025.04.28-11.55.21:387][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BD_AI]
+[2025.04.28-11.55.21:387][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BD_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/Autosaves/Game/AI/BD_AI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.04.28-11.55.21:387][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BD_AI_Auto2
+[2025.04.28-11.55.21:387][348]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BD_AI_Auto2F6957A8442A4A53E0361A6BEAF2F09FE.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/Autosaves/Game/AI/BD_AI_Auto2.uasset'
+[2025.04.28-11.55.21:388][348]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.04.28-11.56.19:981][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.28-11.56.19:985][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-11.56.20:040][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BD_AI] ([1] browsable assets)...
+[2025.04.28-11.56.20:040][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BD_AI]
+[2025.04.28-11.56.20:040][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BD_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BD_AI.uasset" SILENT=true
+[2025.04.28-11.56.20:041][719]LogSavePackage: Moving output files for package: /Game/AI/BD_AI
+[2025.04.28-11.56.20:041][719]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BD_AIF0F5771C4A3D0D9F890B7EB3F15D79FB.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BD_AI.uasset'
+[2025.04.28-11.56.20:049][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.534 ms (total: 1.04 sec)
+[2025.04.28-11.56.20:108][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-11.56.20:108][719]LogContentValidation: Enabled validators:
+[2025.04.28-11.56.20:108][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-11.56.20:108][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-11.56.20:108][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-11.56.20:108][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-11.56.20:108][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-11.56.20:108][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-11.56.20:108][719]AssetCheck: /Game/AI/BD_AI Validating asset
+[2025.04.28-11.56.23:626][ 96]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.28-11.56.26:134][ 96]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.28-11.56.26:154][ 96]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.28-11.56.26:161][ 96]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.28-11.56.30:767][ 96]LogContentBrowser: Attempting asset rename: NewFolder -> Services
+[2025.04.28-11.56.30:781][ 96]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.28-11.57.03:076][ 96]LogSlate: Window 'Save Asset As' being destroyed
+[2025.04.28-11.57.03:101][ 96]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Services/BT_Service_GetDistanceToTarget.BT_Service_GetDistanceToTarget
+[2025.04.28-11.57.03:102][ 96]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.04.28-11.57.03:275][ 96]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/Services/BT_Service_GetDistanceToTarget.
+[2025.04.28-11.57.03:483][100]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.04.28-11.57.07:348][466]LogSlate: Window 'BT_Service_GetDistanceToTarget' being destroyed
+[2025.04.28-11.57.28:487][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.04.28-11.57.28:769][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.28-11.57.28:773][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-11.57.28:816][336]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Services/BT_Service_GetDistanceToTarget] ([2] browsable assets)...
+[2025.04.28-11.57.28:816][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Services/BT_Service_GetDistanceToTarget]
+[2025.04.28-11.57.28:818][336]LogSavePackage: Moving output files for package: /Game/AI/Services/BT_Service_GetDistanceToTarget
+[2025.04.28-11.57.28:818][336]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Service_GetDistanceToTargetA3EC6FF94811B6DA15A99B92DE863630.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset'
+[2025.04.28-11.57.28:819][336]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Services/BT_Service_GetDistanceToTarget.
+[2025.04.28-11.57.28:829][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.996 ms (total: 1.10 sec)
+[2025.04.28-11.57.28:881][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-11.57.28:882][336]LogContentValidation: Enabled validators:
+[2025.04.28-11.57.28:882][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-11.57.28:882][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-11.57.28:882][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-11.57.28:882][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-11.57.28:882][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-11.57.28:882][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-11.57.28:882][336]AssetCheck: /Game/AI/Services/BT_Service_GetDistanceToTarget Validating asset
+[2025.04.28-11.58.30:016][585]LogSlate: Took 0.008586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.04.28-11.58.37:099][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.28-11.58.37:461][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.04.28-11.58.37:465][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-11.58.37:522][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Services/BT_Service_GetDistanceToTarget] ([2] browsable assets)...
+[2025.04.28-11.58.37:522][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Services/BT_Service_GetDistanceToTarget]
+[2025.04.28-11.58.37:524][449]LogSavePackage: Moving output files for package: /Game/AI/Services/BT_Service_GetDistanceToTarget
+[2025.04.28-11.58.37:524][449]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Service_GetDistanceToTargetD5EE2F64493A2B828FE649B511D247F1.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset'
+[2025.04.28-11.58.37:533][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.748 ms (total: 1.17 sec)
+[2025.04.28-11.58.37:588][449]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-11.58.37:589][449]LogContentValidation: Enabled validators:
+[2025.04.28-11.58.37:589][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-11.58.37:589][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-11.58.37:589][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-11.58.37:589][449]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-11.58.37:589][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-11.58.37:589][449]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-11.58.37:589][449]AssetCheck: /Game/AI/Services/BT_Service_GetDistanceToTarget Validating asset
+[2025.04.28-11.58.41:547][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2388.974121
+[2025.04.28-11.58.42:547][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.28-11.58.42:548][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2389.641113, Update Interval: 325.628235
+[2025.04.28-12.00.35:526][842]LogSlate: Window 'Delete Variable' being destroyed
+[2025.04.28-12.01.07:129][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.28-12.01.07:411][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.28-12.01.07:414][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.01.07:466][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Services/BT_Service_GetDistanceToTarget] ([2] browsable assets)...
+[2025.04.28-12.01.07:466][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Services/BT_Service_GetDistanceToTarget]
+[2025.04.28-12.01.07:469][537]LogSavePackage: Moving output files for package: /Game/AI/Services/BT_Service_GetDistanceToTarget
+[2025.04.28-12.01.07:469][537]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Service_GetDistanceToTarget15C015BF4FFB9A51D48B2B9B48417E36.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset'
+[2025.04.28-12.01.07:478][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.450 ms (total: 1.23 sec)
+[2025.04.28-12.01.07:531][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.01.07:531][537]LogContentValidation: Enabled validators:
+[2025.04.28-12.01.07:531][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.01.07:531][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.01.07:531][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.01.07:531][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.01.07:531][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.01.07:531][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.01.07:531][537]AssetCheck: /Game/AI/Services/BT_Service_GetDistanceToTarget Validating asset
+[2025.04.28-12.02.02:598][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.28-12.02.03:128][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.04.28-12.02.03:132][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.02.03:174][401]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Services/BT_Service_GetDistanceToTarget] ([2] browsable assets)...
+[2025.04.28-12.02.03:174][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Services/BT_Service_GetDistanceToTarget]
+[2025.04.28-12.02.03:179][401]LogSavePackage: Moving output files for package: /Game/AI/Services/BT_Service_GetDistanceToTarget
+[2025.04.28-12.02.03:179][401]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Service_GetDistanceToTarget1F2CB0464C7F5FC31F2D2AA77E741859.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset'
+[2025.04.28-12.02.03:186][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.921 ms (total: 1.28 sec)
+[2025.04.28-12.02.03:241][401]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.02.03:241][401]LogContentValidation: Enabled validators:
+[2025.04.28-12.02.03:241][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.02.03:241][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.02.03:241][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.02.03:241][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.02.03:241][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.02.03:241][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.02.03:241][401]AssetCheck: /Game/AI/Services/BT_Service_GetDistanceToTarget Validating asset
+[2025.04.28-12.02.43:474][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.28-12.02.43:823][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.28-12.02.43:827][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.02.43:883][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Services/BT_Service_GetDistanceToTarget] ([2] browsable assets)...
+[2025.04.28-12.02.43:883][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Services/BT_Service_GetDistanceToTarget]
+[2025.04.28-12.02.43:887][789]LogSavePackage: Moving output files for package: /Game/AI/Services/BT_Service_GetDistanceToTarget
+[2025.04.28-12.02.43:888][789]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Service_GetDistanceToTarget7E5742D4433A509F0E43F183422A6C6A.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset'
+[2025.04.28-12.02.43:897][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.526 ms (total: 1.35 sec)
+[2025.04.28-12.02.43:952][789]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.02.43:952][789]LogContentValidation: Enabled validators:
+[2025.04.28-12.02.43:952][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.02.43:952][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.02.43:952][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.02.43:952][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.02.43:952][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.02.43:952][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.02.43:952][789]AssetCheck: /Game/AI/Services/BT_Service_GetDistanceToTarget Validating asset
+[2025.04.28-12.03.08:563][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.28-12.03.08:938][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.04.28-12.03.08:942][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.03.09:021][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Services/BT_Service_GetDistanceToTarget] ([2] browsable assets)...
+[2025.04.28-12.03.09:021][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Services/BT_Service_GetDistanceToTarget]
+[2025.04.28-12.03.09:026][397]LogSavePackage: Moving output files for package: /Game/AI/Services/BT_Service_GetDistanceToTarget
+[2025.04.28-12.03.09:026][397]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Service_GetDistanceToTarget8D4D3FC54DEBEDFC6E07A78B4AA06FD3.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset'
+[2025.04.28-12.03.09:034][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.089 ms (total: 1.45 sec)
+[2025.04.28-12.03.09:088][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.03.09:089][397]LogContentValidation: Enabled validators:
+[2025.04.28-12.03.09:089][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.03.09:089][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.03.09:089][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.03.09:089][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.03.09:089][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.03.09:089][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.03.09:089][397]AssetCheck: /Game/AI/Services/BT_Service_GetDistanceToTarget Validating asset
+[2025.04.28-12.03.41:576][187]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.28-12.04.16:883][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.28-12.04.16:888][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.04.16:927][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2025.04.28-12.04.16:927][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2025.04.28-12.04.16:927][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset" SILENT=true
+[2025.04.28-12.04.16:929][895]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2025.04.28-12.04.16:930][895]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_AI0C0B8273451B5CCDFA361FB6D4A108C6.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset'
+[2025.04.28-12.04.16:938][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.362 ms (total: 1.50 sec)
+[2025.04.28-12.04.16:994][895]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.04.16:994][895]LogContentValidation: Enabled validators:
+[2025.04.28-12.04.16:994][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.04.16:994][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.04.16:994][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.04.16:994][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.04.16:994][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.04.16:994][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.04.16:994][895]AssetCheck: /Game/AI/BT_AI Validating asset
+[2025.04.28-12.04.42:963][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2750.404785
+[2025.04.28-12.04.43:964][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.28-12.04.43:964][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2751.071777, Update Interval: 314.414490
+[2025.04.28-12.04.48:713][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.28-12.04.49:043][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.28-12.04.49:046][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.04.49:107][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Services/BT_Service_GetDistanceToTarget] ([2] browsable assets)...
+[2025.04.28-12.04.49:107][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Services/BT_Service_GetDistanceToTarget]
+[2025.04.28-12.04.49:112][755]LogSavePackage: Moving output files for package: /Game/AI/Services/BT_Service_GetDistanceToTarget
+[2025.04.28-12.04.49:112][755]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Service_GetDistanceToTarget910DCDB047B893D9B326289790B6DEEB.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Services/BT_Service_GetDistanceToTarget.uasset'
+[2025.04.28-12.04.49:121][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.919 ms (total: 1.57 sec)
+[2025.04.28-12.04.49:173][755]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.04.49:173][755]LogContentValidation: Enabled validators:
+[2025.04.28-12.04.49:173][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.04.49:173][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.04.49:173][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.04.49:173][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.04.49:173][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.04.49:173][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.04.49:173][755]AssetCheck: /Game/AI/Services/BT_Service_GetDistanceToTarget Validating asset
+[2025.04.28-12.04.49:881][838]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.04.28-12.04.49:886][838]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.28-12.04.49:886][838]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.28-12.04.49:888][838]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.964 ms (total: 74.297 ms)
+[2025.04.28-12.04.49:894][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.28-12.04.49:894][838]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.28-12.04.49:900][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005243s)
+[2025.04.28-12.04.49:900][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005280s)
+[2025.04.28-12.04.49:924][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.28-12.04.49:925][838]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.28-12.04.49:926][838]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.28-12.04.49:927][838]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.28-12.04.49:927][838]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.28-12.04.49:927][838]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.28-12.04.49:928][838]LogWorldPartition: Display: WorldPartition initialize took 1.575 ms (total: 1.09 sec)
+[2025.04.28-12.04.49:928][838]LogPlayLevel: PIE: World Init took: (0.003396s)
+[2025.04.28-12.04.49:929][838]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.04.28-12.04.49:929][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.28-12.04.49:929][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.28-12.04.49:929][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.28-12.04.49:929][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.28-12.04.49:929][838]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.28-12.04.49:929][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.28-12.04.49:929][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.28-12.04.49:929][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.28-12.04.49:929][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.28-12.04.49:929][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.28-12.04.49:929][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.28-12.04.49:931][838]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.28-12.04.49:951][838]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.04.28-12.04.49:951][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.28-12.04.49:951][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.28-12.04.49:951][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.28-12.04.49:952][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.04.28-12.04.49:952][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.04.28-12.04.49:954][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.04.28-12.04.49:954][838]LogInit: FAudioDevice initialized with ID 22.
+[2025.04.28-12.04.49:954][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.04.28-12.04.49:954][838]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2025.04.28-12.04.49:954][838]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.04.28-12.04.49:991][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.28-12.04.49:993][838]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.28-12.04.49:996][838]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.28-16.04.49
+[2025.04.28-12.04.49:997][838]LogWorld: Bringing up level for play took: 0.004680
+[2025.04.28-12.04.50:000][838]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.04.28-12.04.50:001][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.04.28-12.04.50:001][838]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.04.28-12.04.50:008][838]PIE: Server logged in
+[2025.04.28-12.04.50:008][838]PIE: Play in editor total start time 0,122 seconds.
+[2025.04.28-12.04.50:352][844]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 1101.822754
+[2025.04.28-12.04.52:756][976]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.819664
+[2025.04.28-12.04.52:844][981]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.165413
+[2025.04.28-12.04.52:912][985]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.52:981][989]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:050][993]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:118][997]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:184][  1]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:251][  5]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:318][  9]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:387][ 13]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:453][ 17]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:521][ 21]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:589][ 25]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:656][ 29]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:723][ 33]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:790][ 37]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:857][ 41]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:923][ 45]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.53:991][ 49]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.54:058][ 53]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.54:124][ 57]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.54:191][ 61]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.54:257][ 65]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.54:326][ 69]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.54:393][ 73]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.119476
+[2025.04.28-12.04.54:545][ 82]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 76.851654
+[2025.04.28-12.04.57:422][236]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 112.567741
+[2025.04.28-12.04.58:695][307]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 363.51297
+[2025.04.28-12.05.01:346][463]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 535.843933
+[2025.04.28-12.05.04:409][638]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 455.382935
+[2025.04.28-12.05.04:554][647]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 514.82959
+[2025.04.28-12.05.04:702][656]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 569.918213
+[2025.04.28-12.05.08:527][876]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 845.14801
+[2025.04.28-12.05.09:590][935]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 381.666199
+[2025.04.28-12.05.10:520][989]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 484.705322
+[2025.04.28-12.05.15:519][288]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 1476.557007
+[2025.04.28-12.05.20:065][558]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 1343.584106
+[2025.04.28-12.05.21:115][620]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 708.296204
+[2025.04.28-12.05.21:262][629]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 695.504456
+[2025.04.28-12.05.21:395][637]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 674.022766
+[2025.04.28-12.05.21:545][646]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 642.433167
+[2025.04.28-12.05.27:549][  3]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 220.769211
+[2025.04.28-12.05.28:153][ 38]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 70.197685
+[2025.04.28-12.05.28:253][ 43]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.194489
+[2025.04.28-12.05.28:328][ 47]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:400][ 51]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:474][ 55]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:549][ 59]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:623][ 63]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:699][ 67]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:777][ 71]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:853][ 75]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.28:929][ 79]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:006][ 83]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:081][ 87]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:158][ 91]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:238][ 95]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:315][ 99]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:392][103]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:472][107]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:542][111]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:612][115]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:682][119]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:753][123]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.129547
+[2025.04.28-12.05.29:804][126]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.074699
+[2025.04.28-12.05.29:855][129]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.078926
+[2025.04.28-12.05.29:908][132]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.110207
+[2025.04.28-12.05.29:959][135]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.100174
+[2025.04.28-12.05.30:010][138]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.125916
+[2025.04.28-12.05.30:079][142]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 70.092644
+[2025.04.28-12.05.31:317][211]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 127.868805
+[2025.04.28-12.05.31:434][218]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 135.803238
+[2025.04.28-12.05.31:535][224]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 149.258133
+[2025.04.28-12.05.31:654][231]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 171.58873
+[2025.04.28-12.05.31:792][239]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 209.40181
+[2025.04.28-12.05.31:965][249]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 274.65213
+[2025.04.28-12.05.34:482][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.28-12.05.34:482][398]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.28-12.05.34:482][398]LogSlate: Window 'RPG Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.28-12.05.34:507][398]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-12.05.34:508][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.05.34:508][398]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.28-12.05.34:510][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.28-12.05.34:517][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.05.34:541][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.04.28-12.05.34:541][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.04.28-12.05.34:543][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.04.28-12.05.34:551][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.04.28-12.05.34:613][399]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.04.28-12.06.17:328][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.04.28-12.06.23:082][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.04.28-12.06.23:104][354]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_0
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.06.35:108][354]LogSlate: Window 'Save Asset As' being destroyed
+[2025.04.28-12.06.35:121][354]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BT_Task_AttactTarget.BT_Task_AttactTarget
+[2025.04.28-12.06.35:121][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.04.28-12.06.35:205][354]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/BT_Task_AttactTarget.
+[2025.04.28-12.06.37:115][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.28-12.06.37:119][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.06.37:182][547]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.06.37:182][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_Task_AttactTarget]
+[2025.04.28-12.06.37:182][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.06.37:184][547]LogSavePackage: Moving output files for package: /Game/AI/BT_Task_AttactTarget
+[2025.04.28-12.06.37:184][547]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTarget67649B0E4E38A04CC99EEDAC58EC3627.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.06.37:184][547]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BT_Task_AttactTarget.
+[2025.04.28-12.06.37:194][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.460 ms (total: 1.65 sec)
+[2025.04.28-12.06.37:246][547]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.06.37:246][547]LogContentValidation: Enabled validators:
+[2025.04.28-12.06.37:246][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.06.37:246][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.06.37:246][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.06.37:246][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.06.37:246][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.06.37:246][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.06.37:246][547]AssetCheck: /Game/AI/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.06.40:643][935]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_1
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.06.41:155][994]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_2
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.06.44:949][386]LogMetaData: Removing '/Game/AI/Tasks/BT_Task_AttactTarget.SKEL_BT_Task_AttactTarget_C' ref from Metadata '/Game/AI/BT_Task_AttactTarget.PackageMetaData'
+[2025.04.28-12.06.44:949][386]LogMetaData: Removing '/Game/AI/Tasks/BT_Task_AttactTarget.BT_Task_AttactTarget_C' ref from Metadata '/Game/AI/BT_Task_AttactTarget.PackageMetaData'
+[2025.04.28-12.06.44:963][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.06.44:963][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.06.44:963][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.06.44:963][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.06.44:964][386]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.06.44:964][386]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTargetC1ACE22A46E30CD684F5BFA11D3707FD.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.06.44:968][386]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Tasks/BT_Task_AttactTarget.
+[2025.04.28-12.06.44:971][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.186 ms (total: 1.65 sec)
+[2025.04.28-12.06.45:022][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.28-12.06.45:045][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.28-12.06.45:066][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.28-12.06.45:087][386]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.28-12.06.45:087][386]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.06.45:087][386]LogContentValidation: Enabled validators:
+[2025.04.28-12.06.45:087][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.06.45:087][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.06.45:087][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.06.45:087][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.06.45:087][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.06.45:087][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.06.45:087][386]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.06.45:088][386]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_3
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.06.45:161][387]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_4
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.06.45:168][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_5
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.06.45:176][389]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_6
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.06.46:658][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.28-12.06.47:131][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.28-12.07.09:413][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.28-12.07.09:729][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.28-12.07.09:732][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.07.09:766][ 68]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.07.09:766][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.07.09:766][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.07.09:768][ 68]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.07.09:768][ 68]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTargetFAD25E1A4F89788A8EFA838C3E16CACA.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.07.09:778][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.577 ms (total: 1.70 sec)
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: Enabled validators:
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.07.09:833][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.07.09:833][ 68]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.08.38:086][436]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.04.28-12.08.38:091][436]LogContentBrowser: Creating deferred item: NewInterface
+[2025.04.28-12.08.38:120][437]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2025.04.28-12.08.57:396][750]LogContentBrowser: Attempting asset rename: NewInterface -> BP_AI_BehaviorTrees
+[2025.04.28-12.08.57:414][750]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/BP_AI_BehaviorTrees.
+[2025.04.28-12.08.57:415][750]LogContentBrowser: End creating deferred item NewInterface
+[2025.04.28-12.08.58:785][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.04.28-12.08.58:789][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.08.58:849][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AI_BehaviorTrees] ([2] browsable assets)...
+[2025.04.28-12.08.58:849][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI_BehaviorTrees]
+[2025.04.28-12.08.58:849][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI_BehaviorTrees" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI_BehaviorTrees.uasset" SILENT=true
+[2025.04.28-12.08.58:850][902]LogSavePackage: Moving output files for package: /Game/AI/BP_AI_BehaviorTrees
+[2025.04.28-12.08.58:850][902]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI_BehaviorTreesD09801DD454E57C5B0AAE5904C5734E2.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI_BehaviorTrees.uasset'
+[2025.04.28-12.08.58:851][902]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BP_AI_BehaviorTrees.
+[2025.04.28-12.08.58:861][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.475 ms (total: 1.77 sec)
+[2025.04.28-12.08.58:915][902]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.08.58:915][902]LogContentValidation: Enabled validators:
+[2025.04.28-12.08.58:915][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.08.58:915][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.08.58:915][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.08.58:915][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.08.58:915][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.08.58:915][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.08.58:915][902]AssetCheck: /Game/AI/BP_AI_BehaviorTrees Validating asset
+[2025.04.28-12.08.59:833][  2]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_AI_BehaviorTrees.BP_AI_BehaviorTrees
+[2025.04.28-12.08.59:833][  2]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.04.28-12.09.20:834][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.28-12.09.21:363][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.28-12.09.21:367][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.09.21:425][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AI_BehaviorTrees] ([2] browsable assets)...
+[2025.04.28-12.09.21:425][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI_BehaviorTrees]
+[2025.04.28-12.09.21:425][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI_BehaviorTrees" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI_BehaviorTrees.uasset" SILENT=true
+[2025.04.28-12.09.21:427][711]LogSavePackage: Moving output files for package: /Game/AI/BP_AI_BehaviorTrees
+[2025.04.28-12.09.21:427][711]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI_BehaviorTrees3A41F05F4E706E48742F0D834CF7BAC3.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI_BehaviorTrees.uasset'
+[2025.04.28-12.09.21:434][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.034 ms (total: 1.84 sec)
+[2025.04.28-12.09.21:493][711]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.09.21:493][711]LogContentValidation: Enabled validators:
+[2025.04.28-12.09.21:493][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.09.21:493][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.09.21:493][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.09.21:493][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.09.21:493][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.09.21:493][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.09.21:493][711]AssetCheck: /Game/AI/BP_AI_BehaviorTrees Validating asset
+[2025.04.28-12.09.32:018][956]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-12.09.32:018][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.09.32:061][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.04.28-12.10.06:301][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.28-12.10.06:806][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.28-12.10.06:810][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.10.06:868][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.10.06:869][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.10.06:869][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.10.06:870][135]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.10.06:870][135]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTarget448C8F9241A8DC7ED8395CA81BC8C746.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.10.06:877][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.399 ms (total: 1.91 sec)
+[2025.04.28-12.10.06:936][135]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.10.06:936][135]LogContentValidation: Enabled validators:
+[2025.04.28-12.10.06:936][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.10.06:936][135]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.10.06:936][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.10.06:936][135]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.10.06:936][135]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.10.06:936][135]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.10.06:936][135]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.10.17:623][930]LogContentBrowser: Attempting asset rename: BP_AI_BehaviorTrees -> BPI_AI_BehaviorTrees
+[2025.04.28-12.10.17:726][930]LogMetaData: Removing '/Game/AI/BPI_AI_BehaviorTrees.SKEL_BPI_AI_BehaviorTrees_C' ref from Metadata '/Game/AI/BP_AI_BehaviorTrees.PackageMetaData'
+[2025.04.28-12.10.17:726][930]LogMetaData: Removing '/Game/AI/BPI_AI_BehaviorTrees.BPI_AI_BehaviorTrees_C' ref from Metadata '/Game/AI/BP_AI_BehaviorTrees.PackageMetaData'
+[2025.04.28-12.10.17:726][930]LogMetaData: Removing '/Game/AI/BPI_AI_BehaviorTrees.BPI_AI_BehaviorTrees:Attact.K2Node_FunctionEntry_0' ref from Metadata '/Game/AI/BP_AI_BehaviorTrees.PackageMetaData'
+[2025.04.28-12.10.17:739][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.10.17:739][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.10.17:739][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.10.17:739][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.10.17:741][930]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.10.17:741][930]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTarget29A301234332BBDB096580B84C81FEC5.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.10.17:742][930]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BPI_AI_BehaviorTrees] ([2] browsable assets)...
+[2025.04.28-12.10.17:742][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BPI_AI_BehaviorTrees]
+[2025.04.28-12.10.17:742][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BPI_AI_BehaviorTrees" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BPI_AI_BehaviorTrees.uasset" SILENT=true
+[2025.04.28-12.10.17:743][930]LogSavePackage: Moving output files for package: /Game/AI/BPI_AI_BehaviorTrees
+[2025.04.28-12.10.17:743][930]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BPI_AI_BehaviorTrees6D02DE7F4843448207355EA68C81AD94.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BPI_AI_BehaviorTrees.uasset'
+[2025.04.28-12.10.17:748][930]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/BPI_AI_BehaviorTrees.
+[2025.04.28-12.10.17:750][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.506 ms (total: 1.92 sec)
+[2025.04.28-12.10.17:792][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.28-12.10.17:815][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.28-12.10.17:835][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.28-12.10.17:906][930]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.28-12.10.17:906][930]LogContentValidation: Enabled validators:
+[2025.04.28-12.10.17:906][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.10.17:906][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.10.17:906][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.10.17:906][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.10.17:906][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.10.17:906][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.10.17:906][930]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.10.17:906][930]AssetCheck: /Game/AI/BPI_AI_BehaviorTrees Validating asset
+[2025.04.28-12.10.18:699][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.28-12.10.26:128][895]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_7
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.10.26:164][896]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_8
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.10.27:749][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.28-12.10.28:256][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.28-12.10.40:514][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3107.962158
+[2025.04.28-12.10.40:713][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.28-12.10.40:713][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3108.153076, Update Interval: 357.709290
+[2025.04.28-12.11.05:355][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.28-12.11.05:711][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.28-12.11.05:715][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.11.05:776][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.11.05:776][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.11.05:776][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.11.05:779][711]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.11.05:779][711]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTarget13C05EA3450BD93B0C5012BC090FA822.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.11.05:786][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.338 ms (total: 1.99 sec)
+[2025.04.28-12.11.05:842][711]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.11.05:842][711]LogContentValidation: Enabled validators:
+[2025.04.28-12.11.05:842][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.11.05:842][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.11.05:842][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.11.05:842][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.11.05:842][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.11.05:842][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.11.05:842][711]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.11.15:883][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.28-12.11.16:225][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.28-12.11.16:230][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.11.16:279][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.11.16:279][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.11.16:279][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.11.16:282][938]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.11.16:282][938]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTarget19D6FC654D86496519F141B2AE3A7EF0.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.11.16:291][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.149 ms (total: 2.05 sec)
+[2025.04.28-12.11.16:345][938]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.11.16:345][938]LogContentValidation: Enabled validators:
+[2025.04.28-12.11.16:345][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.11.16:345][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.11.16:345][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.11.16:345][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.11.16:345][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.11.16:345][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.11.16:346][938]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.11.41:900][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.28-12.11.42:252][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.04.28-12.11.42:256][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.11.42:320][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.11.42:320][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.11.42:320][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.11.42:323][733]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.11.42:323][733]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTargetDA956F15418BDA500C94B3AC620B40AC.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.11.42:333][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.927 ms (total: 2.13 sec)
+[2025.04.28-12.11.42:386][733]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.11.42:386][733]LogContentValidation: Enabled validators:
+[2025.04.28-12.11.42:386][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.11.42:386][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.11.42:386][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.11.42:386][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.11.42:386][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.11.42:386][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.11.42:386][733]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.12.09:669][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.28-12.12.11:319][182]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-12.12.11:319][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.12.11:369][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.28-12.12.17:717][912]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.28-12.12.20:539][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.04.28-12.12.20:543][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.12.20:604][238]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2025.04.28-12.12.20:604][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2025.04.28-12.12.20:604][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset" SILENT=true
+[2025.04.28-12.12.20:607][238]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2025.04.28-12.12.20:607][238]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_AI73363FEB4374318062A677AF66BE5168.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset'
+[2025.04.28-12.12.20:614][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.991 ms (total: 2.20 sec)
+[2025.04.28-12.12.20:672][238]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.12.20:672][238]LogContentValidation: Enabled validators:
+[2025.04.28-12.12.20:672][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.12.20:672][238]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.12.20:672][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.12.20:672][238]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.12.20:672][238]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.12.20:672][238]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.12.20:672][238]AssetCheck: /Game/AI/BT_AI Validating asset
+[2025.04.28-12.13.29:254][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.28-12.13.29:258][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.13.29:295][801]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2025.04.28-12.13.29:296][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2025.04.28-12.13.29:296][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset" SILENT=true
+[2025.04.28-12.13.29:299][801]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2025.04.28-12.13.29:299][801]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_AIC52FC86A4395A01CE4DA82B7A490F82A.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset'
+[2025.04.28-12.13.29:307][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.554 ms (total: 2.25 sec)
+[2025.04.28-12.13.29:344][801]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.13.29:344][801]LogContentValidation: Enabled validators:
+[2025.04.28-12.13.29:344][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.13.29:344][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.13.29:344][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.13.29:344][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.13.29:344][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.13.29:344][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.13.29:344][801]AssetCheck: /Game/AI/BT_AI Validating asset
+[2025.04.28-12.14.05:099][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.28-12.14.05:103][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.14.05:154][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2025.04.28-12.14.05:154][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2025.04.28-12.14.05:154][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset" SILENT=true
+[2025.04.28-12.14.05:157][697]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2025.04.28-12.14.05:157][697]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_AI2D0DE0B04B2D88A577F839958C81B1D6.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset'
+[2025.04.28-12.14.05:165][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.347 ms (total: 2.31 sec)
+[2025.04.28-12.14.05:220][697]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.14.05:220][697]LogContentValidation: Enabled validators:
+[2025.04.28-12.14.05:220][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.14.05:220][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.14.05:220][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.14.05:220][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.14.05:220][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.14.05:220][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.14.05:220][697]AssetCheck: /Game/AI/BT_AI Validating asset
+[2025.04.28-12.14.59:233][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.28-12.14.59:237][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.14.59:293][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_AI] ([1] browsable assets)...
+[2025.04.28-12.14.59:293][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_AI]
+[2025.04.28-12.14.59:293][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset" SILENT=true
+[2025.04.28-12.14.59:295][483]LogSavePackage: Moving output files for package: /Game/AI/BT_AI
+[2025.04.28-12.14.59:297][483]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_AI449DDC314A194C77206E4DA2A7F003D8.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BT_AI.uasset'
+[2025.04.28-12.14.59:305][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.264 ms (total: 2.38 sec)
+[2025.04.28-12.14.59:360][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.14.59:361][483]LogContentValidation: Enabled validators:
+[2025.04.28-12.14.59:361][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.14.59:361][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.14.59:361][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.14.59:361][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.14.59:361][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.14.59:361][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.14.59:361][483]AssetCheck: /Game/AI/BT_AI Validating asset
+[2025.04.28-12.15.00:399][587]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_9
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:486][588]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_10
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:495][589]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_11
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:504][590]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_12
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:512][591]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_13
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:520][592]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_14
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:528][593]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_15
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:537][594]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_16
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:544][595]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_17
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:553][596]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_18
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:561][597]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_19
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:569][598]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_20
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:578][599]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_21
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:587][600]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_22
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:595][601]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_23
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:603][602]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_24
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:611][603]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_25
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:620][604]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_26
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:629][605]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_27
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:638][606]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_28
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:645][607]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_29
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:654][608]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_30
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:663][609]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_31
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:671][610]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_32
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:679][611]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_33
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:686][612]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_34
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:696][613]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_35
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:704][614]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_36
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:712][615]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_37
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:721][616]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_38
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.00:729][617]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_39
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.15.01:465][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BP_AI.BP_AI
+[2025.04.28-12.15.01:466][694]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.04.28-12.15.23:560][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.28-12.15.23:828][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.04.28-12.15.23:833][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.15.23:895][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.15.23:906][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.15.23:906][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.15.23:906][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.15.23:928][270]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.15.23:928][270]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI079771524EF6874C81F229AE2D3F5F92.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.15.23:937][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.777 ms (total: 2.48 sec)
+[2025.04.28-12.15.23:994][270]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.15.23:994][270]LogContentValidation: Enabled validators:
+[2025.04.28-12.15.23:994][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.15.23:994][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.15.23:994][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.15.23:995][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.15.23:995][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.15.23:995][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.15.23:995][270]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.15.49:540][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.04.28-12.15.49:829][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.28-12.15.49:834][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.15.49:886][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.15.49:944][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.15.49:944][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.15.49:944][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.15.49:965][217]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.15.49:965][217]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI1EB8A78F42AD7FA1EFD2E69D5608677A.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.15.49:974][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.088 ms (total: 2.62 sec)
+[2025.04.28-12.15.50:037][217]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.15.50:037][217]LogContentValidation: Enabled validators:
+[2025.04.28-12.15.50:037][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.15.50:037][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.15.50:037][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.15.50:037][217]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.15.50:037][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.15.50:037][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.15.50:037][217]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.16.25:812][727]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.28-12.16.27:635][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.28-12.16.27:922][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.28-12.16.27:927][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.16.27:988][886]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.16.27:999][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.16.27:999][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.16.27:999][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.16.28:020][886]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.16.28:020][886]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI09F05C4042C84430504D6094D761FEC0.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.16.28:028][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.033 ms (total: 2.72 sec)
+[2025.04.28-12.16.28:087][886]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.16.28:087][886]LogContentValidation: Enabled validators:
+[2025.04.28-12.16.28:087][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.16.28:087][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.16.28:087][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.16.28:087][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.16.28:087][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.16.28:087][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.16.28:087][886]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.17.16:750][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3504.180420
+[2025.04.28-12.17.17:749][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.28-12.17.17:749][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3504.846191, Update Interval: 350.963470
+[2025.04.28-12.17.36:208][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.28-12.17.50:913][779]LogSlate: Window 'Message' being destroyed
+[2025.04.28-12.17.50:921][779]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2025.04.28-12.17.55:967][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.04.28-12.17.56:311][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.28-12.17.56:315][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.17.56:380][328]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.17.56:453][328]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.17.56:453][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.17.56:453][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.17.56:474][328]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.17.56:474][328]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI31BA17C9445B5C281D868996FCF825CC.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.17.56:483][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.946 ms (total: 2.89 sec)
+[2025.04.28-12.17.56:546][328]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.17.56:546][328]LogContentValidation: Enabled validators:
+[2025.04.28-12.17.56:546][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.17.56:546][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.17.56:546][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.17.56:546][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.17.56:546][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.17.56:546][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.17.56:546][328]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.18.24:385][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/BPI_AI_BehaviorTrees.BPI_AI_BehaviorTrees
+[2025.04.28-12.18.24:385][172]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.28-12.18.42:585][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.28-12.18.43:037][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.28-12.18.43:042][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.18.43:077][576]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BPI_AI_BehaviorTrees] ([2] browsable assets)...
+[2025.04.28-12.18.43:077][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BPI_AI_BehaviorTrees]
+[2025.04.28-12.18.43:077][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BPI_AI_BehaviorTrees" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BPI_AI_BehaviorTrees.uasset" SILENT=true
+[2025.04.28-12.18.43:078][576]LogSavePackage: Moving output files for package: /Game/AI/BPI_AI_BehaviorTrees
+[2025.04.28-12.18.43:079][576]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BPI_AI_BehaviorTrees8493F5214832768E906F6C9B691D7FF8.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BPI_AI_BehaviorTrees.uasset'
+[2025.04.28-12.18.43:087][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.078 ms (total: 2.93 sec)
+[2025.04.28-12.18.43:143][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.18.43:143][576]LogContentValidation: Enabled validators:
+[2025.04.28-12.18.43:143][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.18.43:143][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.18.43:143][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.18.43:143][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.18.43:143][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.18.43:143][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.18.43:143][576]AssetCheck: /Game/AI/BPI_AI_BehaviorTrees Validating asset
+[2025.04.28-12.18.54:941][ 10]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-12.18.54:941][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.18.54:986][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.04.28-12.19.04:447][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.28-12.19.05:501][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.28-12.19.05:507][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.19.05:571][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.19.05:650][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.19.05:650][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.19.05:651][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.19.05:671][159]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.19.05:672][159]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI1EBBC9E34C077E533987DDB37944ED16.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.19.05:680][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.206 ms (total: 3.11 sec)
+[2025.04.28-12.19.05:738][159]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.19.05:738][159]LogContentValidation: Enabled validators:
+[2025.04.28-12.19.05:738][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.19.05:738][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.19.05:738][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.19.05:738][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.19.05:738][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.19.05:738][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.19.05:738][159]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.19.25:517][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.28-12.20.00:809][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.28-12.20.01:172][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.28-12.20.01:178][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.20.01:232][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.20.01:301][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.20.01:301][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.20.01:301][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.20.01:322][ 33]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.20.01:322][ 33]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AICB1B37234863EF10ACEE24879ADD8927.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.20.01:330][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.372 ms (total: 3.26 sec)
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: Enabled validators:
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.20.01:382][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.20.01:382][ 33]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.20.09:817][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.28-12.20.10:070][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.04.28-12.20.10:075][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.20.10:131][488]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.20.10:178][488]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.20.10:178][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.20.10:178][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.20.10:199][488]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.20.10:199][488]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI49831DAA46B37683BDA73B86B547EE50.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.20.10:210][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.450 ms (total: 3.40 sec)
+[2025.04.28-12.20.10:265][488]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.20.10:265][488]LogContentValidation: Enabled validators:
+[2025.04.28-12.20.10:265][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.20.10:265][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.20.10:265][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.20.10:265][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.20.10:265][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.20.10:265][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.20.10:265][488]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.20.15:838][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.04.28-12.20.16:294][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.04.28-12.20.16:298][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.20.16:353][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AI] ([2] browsable assets)...
+[2025.04.28-12.20.16:414][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AI.BP_AI]
+[2025.04.28-12.20.16:414][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AI]
+[2025.04.28-12.20.16:414][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AI" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset" SILENT=true
+[2025.04.28-12.20.16:435][861]LogSavePackage: Moving output files for package: /Game/AI/BP_AI
+[2025.04.28-12.20.16:437][861]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AI1883ADE349218D8BDDA18CB7B6B24FB4.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/BP_AI.uasset'
+[2025.04.28-12.20.16:445][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.836 ms (total: 3.54 sec)
+[2025.04.28-12.20.16:502][861]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.20.16:502][861]LogContentValidation: Enabled validators:
+[2025.04.28-12.20.16:502][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.20.16:502][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.20.16:502][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.20.16:502][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.20.16:502][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.20.16:502][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.20.16:502][861]AssetCheck: /Game/AI/BP_AI Validating asset
+[2025.04.28-12.20.25:730][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.28-12.20.38:268][612]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_40
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:352][613]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_41
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:361][614]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_42
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:371][615]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_43
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:380][616]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_44
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:390][617]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_45
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:400][618]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_46
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:410][619]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_47
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:420][620]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_48
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:429][621]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_49
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.38:438][622]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_AI_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_AI_C_50
+	Function /Game/AI/ABP_AI.ABP_AI_C:ExecuteUbergraph_ABP_AI:00D3
+[2025.04.28-12.20.41:523][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Tasks/BT_Task_AttactTarget.BT_Task_AttactTarget
+[2025.04.28-12.20.41:523][977]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.28-12.20.46:332][262]LogDerivedDataCache: C:/Users/Uta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.28-12.20.57:614][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.04.28-12.20.57:952][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.28-12.20.57:956][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.28-12.20.58:017][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Tasks/BT_Task_AttactTarget] ([2] browsable assets)...
+[2025.04.28-12.20.58:017][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Tasks/BT_Task_AttactTarget]
+[2025.04.28-12.20.58:017][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Tasks/BT_Task_AttactTarget" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset" SILENT=true
+[2025.04.28-12.20.58:019][303]LogSavePackage: Moving output files for package: /Game/AI/Tasks/BT_Task_AttactTarget
+[2025.04.28-12.20.58:020][303]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BT_Task_AttactTarget43F67F9240ED70A02CC2E3AD1BD7FD37.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AI/Tasks/BT_Task_AttactTarget.uasset'
+[2025.04.28-12.20.58:027][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.593 ms (total: 3.61 sec)
+[2025.04.28-12.20.58:082][303]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.28-12.20.58:082][303]LogContentValidation: Enabled validators:
+[2025.04.28-12.20.58:082][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.28-12.20.58:082][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.28-12.20.58:082][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.28-12.20.58:082][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.28-12.20.58:082][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.28-12.20.58:082][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.28-12.20.58:082][303]AssetCheck: /Game/AI/Tasks/BT_Task_AttactTarget Validating asset
+[2025.04.28-12.21.33:871][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.28-12.21.34:417][562]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.04.28-12.21.34:422][562]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.28-12.21.34:422][562]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.28-12.21.34:424][562]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.932 ms (total: 76.229 ms)
+[2025.04.28-12.21.34:431][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.28-12.21.34:431][562]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.28-12.21.34:437][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004911s)
+[2025.04.28-12.21.34:437][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004947s)
+[2025.04.28-12.21.34:458][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.28-12.21.34:458][562]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.28-12.21.34:461][562]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.28-12.21.34:461][562]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.28-12.21.34:461][562]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.28-12.21.34:461][562]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.28-12.21.34:462][562]LogWorldPartition: Display: WorldPartition initialize took 1.513 ms (total: 1.09 sec)
+[2025.04.28-12.21.34:462][562]LogPlayLevel: PIE: World Init took: (0.003188s)
+[2025.04.28-12.21.34:463][562]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.04.28-12.21.34:463][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.28-12.21.34:463][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.28-12.21.34:463][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.28-12.21.34:463][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.28-12.21.34:463][562]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.28-12.21.34:463][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.28-12.21.34:463][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.28-12.21.34:463][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.28-12.21.34:463][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.28-12.21.34:463][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.28-12.21.34:463][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.28-12.21.34:465][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.28-12.21.34:484][562]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.04.28-12.21.34:484][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.28-12.21.34:484][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.28-12.21.34:484][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.28-12.21.34:485][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.04.28-12.21.34:485][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.04.28-12.21.34:487][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.04.28-12.21.34:487][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.04.28-12.21.34:487][562]LogInit: FAudioDevice initialized with ID 23.
+[2025.04.28-12.21.34:487][562]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2025.04.28-12.21.34:487][562]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.04.28-12.21.34:525][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.28-12.21.34:525][562]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.28-12.21.34:529][562]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.28-16.21.34
+[2025.04.28-12.21.34:530][562]LogWorld: Bringing up level for play took: 0.004496
+[2025.04.28-12.21.34:532][562]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.04.28-12.21.34:533][562]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.04.28-12.21.34:533][562]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.04.28-12.21.34:540][562]PIE: Server logged in
+[2025.04.28-12.21.34:540][562]PIE: Play in editor total start time 0,119 seconds.
+[2025.04.28-12.21.34:669][564]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 1068.785645
+[2025.04.28-12.21.37:045][684]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.716278
+[2025.04.28-12.21.43:057][ 36]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 100.052254
+[2025.04.28-12.21.52:753][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.28-12.21.52:753][608]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.28-12.21.52:753][608]LogSlate: Window 'RPG Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.28-12.21.52:778][608]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-12.21.52:779][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.21.52:779][608]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.28-12.21.52:785][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.28-12.21.52:791][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.21.52:814][608]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.04.28-12.21.52:814][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.04.28-12.21.52:816][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.04.28-12.21.52:823][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.28-12.21.52:886][609]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.04.28-12.21.54:010][740]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.04.28-12.21.54:015][740]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.28-12.21.54:015][740]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.28-12.21.54:016][740]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.814 ms (total: 78.044 ms)
+[2025.04.28-12.21.54:022][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.28-12.21.54:022][740]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.28-12.21.54:026][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004725s)
+[2025.04.28-12.21.54:026][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004759s)
+[2025.04.28-12.21.54:048][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.04.28-12.21.54:049][740]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.28-12.21.54:050][740]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.28-12.21.54:050][740]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.28-12.21.54:050][740]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.28-12.21.54:050][740]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.28-12.21.54:052][740]LogWorldPartition: Display: WorldPartition initialize took 1.445 ms (total: 1.09 sec)
+[2025.04.28-12.21.54:052][740]LogPlayLevel: PIE: World Init took: (0.002915s)
+[2025.04.28-12.21.54:053][740]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.04.28-12.21.54:053][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.28-12.21.54:053][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.28-12.21.54:053][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.28-12.21.54:053][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.28-12.21.54:053][740]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.28-12.21.54:053][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.28-12.21.54:053][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.28-12.21.54:053][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.28-12.21.54:053][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.28-12.21.54:053][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.28-12.21.54:053][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.28-12.21.54:055][740]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.28-12.21.54:073][740]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.04.28-12.21.54:073][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.28-12.21.54:073][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.28-12.21.54:073][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.28-12.21.54:074][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.04.28-12.21.54:074][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.04.28-12.21.54:076][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.04.28-12.21.54:076][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.04.28-12.21.54:076][740]LogInit: FAudioDevice initialized with ID 24.
+[2025.04.28-12.21.54:076][740]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2025.04.28-12.21.54:076][740]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.04.28-12.21.54:126][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.28-12.21.54:127][740]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.28-12.21.54:130][740]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.28-16.21.54
+[2025.04.28-12.21.54:131][740]LogWorld: Bringing up level for play took: 0.004141
+[2025.04.28-12.21.54:133][740]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.04.28-12.21.54:134][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.04.28-12.21.54:134][740]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.04.28-12.21.54:141][740]PIE: Server logged in
+[2025.04.28-12.21.54:141][740]PIE: Play in editor total start time 0,127 seconds.
+[2025.04.28-12.21.54:269][742]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 1069.611328
+[2025.04.28-12.21.59:661][ 55]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.832458
+[2025.04.28-12.22.01:365][155]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 592.867981
+[2025.04.28-12.22.03:780][298]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.740265
+[2025.04.28-12.22.05:481][397]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 514.13092
+[2025.04.28-12.22.07:523][511]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.842476
+[2025.04.28-12.22.09:237][607]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.026039
+[2025.04.28-12.22.10:940][703]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 69.026039
+[2025.04.28-12.22.11:775][748]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 108.192947
+[2025.04.28-12.22.12:073][764]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 85.136284
+[2025.04.28-12.22.12:238][772]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 76.404694
+[2025.04.28-12.22.12:279][774]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 75.037926
+[2025.04.28-12.22.12:340][777]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 74.66774
+[2025.04.28-12.22.12:382][779]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 72.652863
+[2025.04.28-12.22.12:425][781]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 71.25119
+[2025.04.28-12.22.12:486][784]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 70.506874
+[2025.04.28-12.22.14:194][877]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 452.151459
+[2025.04.28-12.22.16:697][ 22]LogBlueprintUserMessages: [BT_Service_GetDistanceToTarget_C_0] 80.6493
+[2025.04.28-12.22.24:134][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.28-12.22.24:134][443]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.28-12.22.24:135][443]LogSlate: Window 'RPG Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.28-12.22.24:166][443]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.28-12.22.24:166][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.22.24:166][443]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.28-12.22.24:171][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.28-12.22.24:176][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.28-12.22.24:198][443]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.04.28-12.22.24:198][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.04.28-12.22.24:201][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.04.28-12.22.24:208][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.04.28-12.22.24:271][444]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.04.28-12.22.25:184][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
