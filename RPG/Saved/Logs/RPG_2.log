@@ -16088,3 +16088,1244 @@ Script Stack (0 frames) :
 [2025.05.15-12.50.56:100][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.15-12.50.56:100][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14447.824219, Update Interval: 341.835388
 [2025.05.15-12.51.29:847][198]LogDerivedDataCache: C:/Users/Uta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.15-12.57.36:723][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14848.684570
+[2025.05.15-12.57.37:723][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-12.57.37:723][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14849.351562, Update Interval: 352.128052
+[2025.05.15-12.58.35:992][838]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-12.58.35:992][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-12.58.36:075][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.15-12.58.36:340][847]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.15-12.58.36:340][847]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-12.58.36:340][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-12.58.36:452][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.05.15-12.58.46:847][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.15-13.02.28:903][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Animals/BP_Animal.BP_Animal
+[2025.05.15-13.02.28:903][154]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_116
+[2025.05.15-13.02.35:848][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.05.15-13.02.36:310][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.15-13.02.36:315][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.02.36:362][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.02.36:362][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.02.36:362][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.02.36:367][535]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.02.36:367][535]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal51509B7C4B0BC6BCBDF115B5CD186FE0.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.02.36:377][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.140 ms (total: 38.2 sec)
+[2025.05.15-13.02.36:446][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.02.36:446][535]LogContentValidation: Enabled validators:
+[2025.05.15-13.02.36:446][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.02.36:446][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.02.36:446][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.02.36:446][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.02.36:446][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.02.36:446][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.02.36:446][535]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.03.13:770][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.05.15-13.03.14:446][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.15-13.03.14:453][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.03.14:520][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.03.14:520][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.03.14:520][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.03.14:525][125]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.03.14:525][125]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal792ABC024D0570D7B375ADA4900A8DBB.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.03.14:542][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.885 ms (total: 38.3 sec)
+[2025.05.15-13.03.14:612][125]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.03.14:613][125]LogContentValidation: Enabled validators:
+[2025.05.15-13.03.14:613][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.03.14:613][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.03.14:613][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.03.14:613][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.03.14:613][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.03.14:613][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.03.14:613][125]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.03.41:394][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.15-13.03.41:659][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.05.15-13.03.41:665][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.03.41:731][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.03.41:731][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.03.41:731][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.03.41:736][745]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.03.41:736][745]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalB8E473C34D650C09C15EF08446F212D0.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.03.41:746][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.104 ms (total: 38.4 sec)
+[2025.05.15-13.03.41:812][745]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.03.41:812][745]LogContentValidation: Enabled validators:
+[2025.05.15-13.03.41:812][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.03.41:812][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.03.41:812][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.03.41:812][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.03.41:812][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.03.41:812][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.03.41:812][745]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.03.54:229][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.05.15-13.03.54:660][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.15-13.03.54:666][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.03.54:730][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.03.54:731][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.03.54:731][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.03.54:735][139]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.03.54:735][139]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal83B33EEE4B11E24455878F91E08A0CAC.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.03.54:746][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.339 ms (total: 38.5 sec)
+[2025.05.15-13.03.54:795][139]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.03.54:795][139]LogContentValidation: Enabled validators:
+[2025.05.15-13.03.54:795][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.03.54:795][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.03.54:795][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.03.54:795][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.03.54:795][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.03.54:795][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.03.54:795][139]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.04.19:107][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15250.943359
+[2025.05.15-13.04.20:107][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-13.04.20:107][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15251.610352, Update Interval: 320.827057
+[2025.05.15-13.04.41:211][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.15-13.04.41:217][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.04.41:277][251]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.04.41:277][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.04.41:277][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.04.41:283][251]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.04.41:284][251]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalEAD8B3C64324E4AE667E7391BF27A93B.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.04.41:292][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.918 ms (total: 38.5 sec)
+[2025.05.15-13.04.41:327][251]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.04.41:327][251]LogContentValidation: Enabled validators:
+[2025.05.15-13.04.41:327][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.04.41:327][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.04.41:327][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.04.41:327][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.04.41:327][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.04.41:327][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.04.41:327][251]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.04.45:857][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.15-13.04.46:099][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.05.15-13.04.46:105][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.04.46:160][520]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.04.46:161][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.04.46:161][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.04.46:166][520]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.04.46:166][520]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalF5DA0D8945ABAC4E999B779DDAE7F747.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.04.46:176][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.360 ms (total: 38.6 sec)
+[2025.05.15-13.04.46:226][520]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.04.46:226][520]LogContentValidation: Enabled validators:
+[2025.05.15-13.04.46:226][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.04.46:226][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.04.46:226][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.04.46:226][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.04.46:226][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.04.46:226][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.04.46:226][520]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.05.12:281][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.15-13.05.12:576][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.15-13.05.12:582][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.05.12:643][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.05.12:643][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.05.12:643][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.05.12:651][ 74]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.05.12:651][ 74]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal27774F35467B1B812202E7A767C003B7.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.05.12:659][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.149 ms (total: 38.7 sec)
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: Enabled validators:
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.05.12:726][ 74]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.05.12:726][ 74]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.05.34:614][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.05.15-13.05.34:845][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.15-13.05.34:851][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.05.34:911][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.05.34:911][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.05.34:911][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.05.34:918][629]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.05.34:918][629]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalD460C4604F0033E5563BEE9521BFFD7E.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.05.34:926][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.361 ms (total: 38.8 sec)
+[2025.05.15-13.05.34:976][629]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.05.34:976][629]LogContentValidation: Enabled validators:
+[2025.05.15-13.05.34:976][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.05.34:976][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.05.34:976][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.05.34:976][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.05.34:976][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.05.34:976][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.05.34:976][629]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.06.02:749][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.05.15-13.06.03:079][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.15-13.06.03:084][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.06.03:143][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.06.03:143][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.06.03:143][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.06.03:151][973]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.06.03:151][973]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal2AC641FE49301569749AEE88A3C842A3.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.06.03:159][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.691 ms (total: 38.8 sec)
+[2025.05.15-13.06.03:193][973]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.06.03:193][973]LogContentValidation: Enabled validators:
+[2025.05.15-13.06.03:193][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.06.03:193][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.06.03:193][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.06.03:193][973]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.06.03:193][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.06.03:193][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.06.03:193][973]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.06.23:013][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.15-13.06.23:281][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.05.15-13.06.23:287][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.06.23:343][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.06.23:343][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.06.23:343][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.06.23:351][619]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.06.23:351][619]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal8867BF55402381F38BCAFD92CD921E91.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.06.23:359][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.482 ms (total: 38.9 sec)
+[2025.05.15-13.06.23:410][619]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.06.23:410][619]LogContentValidation: Enabled validators:
+[2025.05.15-13.06.23:410][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.06.23:410][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.06.23:410][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.06.23:410][619]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.06.23:410][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.06.23:410][619]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.06.23:410][619]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.06.51:504][822]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.15-13.06.51:512][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.15-13.06.51:512][822]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.06.51:535][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022690s)
+[2025.05.15-13.06.51:535][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Desert.Desert to /Game/Levels/UEDPIE_0_Desert.Desert (0.022774s)
+[2025.05.15-13.06.51:559][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.15-13.06.51:561][822]LogChaosDD: Creating Chaos Debug Draw Scene for world Desert
+[2025.05.15-13.06.51:563][822]LogPlayLevel: PIE: World Init took: (0.001726s)
+[2025.05.15-13.06.51:564][822]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.05.15-13.06.51:564][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.15-13.06.51:564][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.15-13.06.51:564][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.15-13.06.51:564][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.15-13.06.51:564][822]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.15-13.06.51:564][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.15-13.06.51:564][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.15-13.06.51:564][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.15-13.06.51:564][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.15-13.06.51:564][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.15-13.06.51:564][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.15-13.06.51:567][822]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.15-13.06.51:588][822]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.15-13.06.51:588][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.15-13.06.51:588][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.15-13.06.51:588][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.15-13.06.51:588][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.05.15-13.06.51:588][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.05.15-13.06.51:591][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.05.15-13.06.51:591][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.05.15-13.06.51:591][822]LogInit: FAudioDevice initialized with ID 47.
+[2025.05.15-13.06.51:591][822]LogAudio: Display: Audio Device (ID: 47) registered with world 'Desert'.
+[2025.05.15-13.06.51:591][822]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.05.15-13.06.51:644][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.06.51:644][822]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.15-13.06.51:654][822]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Desert.Desert up for play (max tick rate 60) at 2025.05.15-17.06.51
+[2025.05.15-13.06.51:657][822]LogWorld: Bringing up level for play took: 0.012216
+[2025.05.15-13.06.51:659][822]LogOnline: OSS: Created online subsystem instance for: :Context_163
+[2025.05.15-13.06.51:661][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.05.15-13.06.51:661][822]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/Levels/UEDPIE_0_Desert.Desert:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.05.15-13.06.51:672][822]PIE: Server logged in
+[2025.05.15-13.06.51:673][822]PIE: Play in editor total start time 0,163 seconds.
+[2025.05.15-13.07.13:369][967]LogBlueprintUserMessages: [BP_Animal_Hippo_C_1] Attact
+[2025.05.15-13.07.13:583][979]LogBlueprintUserMessages: [BP_Animal_Hippo_C_1] Attact
+[2025.05.15-13.07.14:076][  9]LogBlueprintUserMessages: [BP_Animal_Hippo_C_1] Attact
+[2025.05.15-13.07.14:076][  9]LogBlueprintUserMessages: [BP_Animal_Elephant_C_1] Attact
+[2025.05.15-13.07.31:048][844]LogBlueprintUserMessages: [BP_WaterBodyLake_C_0] Swimming
+[2025.05.15-13.07.31:208][852]LogBlueprintUserMessages: [BP_WaterBodyLake_C_0] Swimming
+[2025.05.15-13.07.31:208][852]LogBlueprintUserMessages: [BP_WaterBodyLake_C_0] StopSwimming
+[2025.05.15-13.07.31:545][869]LogBlueprintUserMessages: [BP_WaterBodyLake_C_0] Swimming
+[2025.05.15-13.07.31:545][869]LogBlueprintUserMessages: [BP_WaterBodyLake_C_0] StopSwimming
+[2025.05.15-13.07.31:888][886]LogBlueprintUserMessages: [BP_WaterBodyLake_C_0] StopSwimming
+[2025.05.15-13.07.32:090][896]LogBlueprintUserMessages: [BP_WaterBodyLake_C_0] Swimming
+[2025.05.15-13.07.39:972][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.07.39:972][265]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.07.39:973][265]LogSlate: Window 'RPG Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.15-13.07.40:019][265]LogWorld: UWorld::CleanupWorld for Desert, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.07.40:020][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.07.40:023][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.15-13.07.40:031][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.07.40:056][265]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.05.15-13.07.40:056][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.05.15-13.07.40:057][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.05.15-13.07.40:068][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.05.15-13.07.40:149][266]LogPlayLevel: Display: Destroying online subsystem :Context_163
+[2025.05.15-13.08.04:796][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.15-13.08.04:801][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.08.04:860][676]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.08.04:860][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.08.04:860][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.08.04:867][676]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.08.04:867][676]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal52A91654465F9176688C4B8C7DDACB85.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.08.04:874][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.923 ms (total: 39.0 sec)
+[2025.05.15-13.08.04:925][676]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.08.04:925][676]LogContentValidation: Enabled validators:
+[2025.05.15-13.08.04:925][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.08.04:925][676]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.08.04:925][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.08.04:925][676]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.08.04:925][676]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.08.04:925][676]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.08.04:925][676]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.08.36:711][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.15-13.08.36:912][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.15-13.08.36:917][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.08.36:979][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.08.36:979][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.08.36:979][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.08.36:986][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.08.36:986][262]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal83CFC22B463DCE591CBA0EB352968E66.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.08.36:994][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.230 ms (total: 39.1 sec)
+[2025.05.15-13.08.37:061][262]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.08.37:061][262]LogContentValidation: Enabled validators:
+[2025.05.15-13.08.37:061][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.08.37:061][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.08.37:061][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.08.37:061][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.08.37:061][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.08.37:061][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.08.37:061][262]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.09.01:894][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.15-13.09.02:204][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.15-13.09.02:209][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.09.02:257][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.09.02:257][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.09.02:257][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.09.02:264][831]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.09.02:264][831]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalF8C927FE448B3B2B005F84B60BE4A75B.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.09.02:274][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.250 ms (total: 39.1 sec)
+[2025.05.15-13.09.02:324][831]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.09.02:324][831]LogContentValidation: Enabled validators:
+[2025.05.15-13.09.02:324][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.09.02:324][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.09.02:324][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.09.02:324][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.09.02:324][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.09.02:324][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.09.02:324][831]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.09.28:872][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.15-13.09.29:177][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.15-13.09.29:183][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.09.29:234][620]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.09.29:234][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.09.29:234][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.09.29:242][620]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.09.29:242][620]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal18E3495046607686A070F0AA3F3073CF.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.09.29:250][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.971 ms (total: 39.2 sec)
+[2025.05.15-13.09.29:317][620]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.09.29:317][620]LogContentValidation: Enabled validators:
+[2025.05.15-13.09.29:317][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.09.29:317][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.09.29:317][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.09.29:317][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.09.29:317][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.09.29:317][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.09.29:317][620]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.10.04:746][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.15-13.10.05:200][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.15-13.10.05:207][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.10.05:260][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.10.05:260][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.10.05:260][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.10.05:268][107]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.10.05:268][107]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal52C2A8B641800CF7BABD6BB565D3B854.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.10.05:277][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.674 ms (total: 39.3 sec)
+[2025.05.15-13.10.05:326][107]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.10.05:326][107]LogContentValidation: Enabled validators:
+[2025.05.15-13.10.05:326][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.10.05:327][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.10.05:327][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.10.05:327][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.10.05:327][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.10.05:327][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.10.05:327][107]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.10.34:682][231]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15626.373047
+[2025.05.15-13.10.35:682][234]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-13.10.35:682][234]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15627.040039, Update Interval: 328.951691
+[2025.05.15-13.10.54:388][783]LogBlueprint: Error: [AssetLog] E:\OldCoddingAndYTSaves\Zz_Coding_zZ\RPGGame\RPG\Content\Blueprints\Animals\BP_Animal.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.15-13.10.54:461][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.15-13.10.54:679][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.15-13.10.54:685][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.10.54:742][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.10.54:742][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.10.54:742][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.10.54:750][789]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.10.54:750][789]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal4DF463D44A30C74E31D8868BB7A4C4EE.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.10.54:760][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.464 ms (total: 39.4 sec)
+[2025.05.15-13.10.54:828][789]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.10.54:828][789]LogContentValidation: Enabled validators:
+[2025.05.15-13.10.54:828][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.10.54:828][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.10.54:828][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.10.54:828][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.10.54:828][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.10.54:828][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.10.54:828][789]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.11.21:240][365]LogBlueprint: Error: [AssetLog] E:\OldCoddingAndYTSaves\Zz_Coding_zZ\RPGGame\RPG\Content\Blueprints\Animals\BP_Animal.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.15-13.11.21:306][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.15-13.11.21:637][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.15-13.11.21:643][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.11.21:708][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.11.21:709][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.11.21:709][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.11.21:718][379]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.11.21:718][379]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal765E338848875D11C1A891A69B2514AD.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.11.21:727][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.698 ms (total: 39.4 sec)
+[2025.05.15-13.11.21:791][379]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.11.21:791][379]LogContentValidation: Enabled validators:
+[2025.05.15-13.11.21:791][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.11.21:791][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.11.21:791][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.11.21:791][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.11.21:791][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.11.21:791][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.11.21:791][379]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.12.27:316][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.05.15-13.12.27:321][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.12.27:376][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.12.27:376][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.12.27:376][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.12.27:384][411]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.12.27:384][411]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal58A460E34DF636694313628AE1B7EFED.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.12.27:394][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.653 ms (total: 39.5 sec)
+[2025.05.15-13.12.27:457][411]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.12.27:457][411]LogContentValidation: Enabled validators:
+[2025.05.15-13.12.27:457][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.12.27:457][411]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.12.27:458][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.12.27:458][411]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.12.27:458][411]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.12.27:458][411]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.12.27:458][411]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.12.39:057][ 60]LogBlueprint: Error: [AssetLog] E:\OldCoddingAndYTSaves\Zz_Coding_zZ\RPGGame\RPG\Content\Blueprints\Animals\BP_Animal.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.15-13.12.39:125][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.15-13.12.39:520][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.05.15-13.12.39:526][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.12.39:594][ 77]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.12.39:594][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.12.39:594][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.12.39:603][ 77]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.12.39:603][ 77]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal1CCF20C84AC30E1EAF64B6B518CEFECA.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.12.39:613][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.178 ms (total: 39.6 sec)
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: Enabled validators:
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.12.39:674][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.12.39:674][ 77]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.13.01:394][704]LogBlueprint: Error: [AssetLog] E:\OldCoddingAndYTSaves\Zz_Coding_zZ\RPGGame\RPG\Content\Blueprints\Animals\BP_Animal.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2025.05.15-13.13.01:469][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.15-13.13.02:104][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.15-13.13.02:109][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.13.02:174][735]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.13.02:174][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.13.02:175][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.13.02:183][735]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.13.02:184][735]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal10C8CC3F42665FF460879789074E7B35.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.13.02:193][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.489 ms (total: 39.7 sec)
+[2025.05.15-13.13.02:258][735]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.13.02:258][735]LogContentValidation: Enabled validators:
+[2025.05.15-13.13.02:258][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.13.02:258][735]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.13.02:258][735]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.13.02:258][735]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.13.02:258][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.13.02:258][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.13.02:258][735]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.13.22:922][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.15-13.13.23:605][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.15-13.13.23:612][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.13.23:673][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.13.23:673][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.13.23:673][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.13.23:682][638]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.13.23:682][638]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal51A081754B8940EA5A8055A7693E1A44.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.13.23:691][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.473 ms (total: 39.8 sec)
+[2025.05.15-13.13.23:757][638]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.13.23:757][638]LogContentValidation: Enabled validators:
+[2025.05.15-13.13.23:757][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.13.23:757][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.13.23:757][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.13.23:757][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.13.23:757][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.13.23:757][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.13.23:757][638]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.13.32:338][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.05.15-13.13.32:571][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.15-13.13.32:577][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.13.32:636][905]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.13.32:636][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.13.32:636][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.13.32:645][905]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.13.32:645][905]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal8C98A7D647E11BABE7AD0AAF8082F12D.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.13.32:657][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.177 ms (total: 39.8 sec)
+[2025.05.15-13.13.32:719][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.13.32:719][905]LogContentValidation: Enabled validators:
+[2025.05.15-13.13.32:719][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.13.32:719][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.13.32:719][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.13.32:719][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.13.32:719][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.13.32:719][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.13.32:719][905]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.14.06:614][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.05.15-13.14.06:924][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.15-13.14.06:930][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.14.06:992][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.14.06:992][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.14.06:992][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.14.07:002][ 75]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.14.07:002][ 75]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal8867E1AE4EE3B3048E0C57824394A5D5.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.14.07:011][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.960 ms (total: 39.9 sec)
+[2025.05.15-13.14.07:056][ 75]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.14.07:056][ 75]LogContentValidation: Enabled validators:
+[2025.05.15-13.14.07:057][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.14.07:057][ 75]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.14.07:057][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.14.07:057][ 75]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.14.07:057][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.14.07:057][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.14.07:057][ 75]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.14.29:388][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.15-13.14.29:736][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.15-13.14.29:742][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.14.29:787][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.14.29:787][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.14.29:787][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.14.29:798][985]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.14.29:798][985]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalD7BAEF144F17681E5D465ABFE24A9512.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.14.29:809][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.955 ms (total: 40.0 sec)
+[2025.05.15-13.14.29:870][985]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.14.29:870][985]LogContentValidation: Enabled validators:
+[2025.05.15-13.14.29:870][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.14.29:870][985]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.14.29:870][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.14.29:870][985]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.14.29:870][985]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.14.29:870][985]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.14.29:870][985]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.14.52:304][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.05.15-13.14.52:702][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.05.15-13.14.52:708][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.14.52:766][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.14.52:766][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.14.52:766][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.14.52:776][364]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.14.52:777][364]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalE7E94A91428E0A7B80F2FCA1019D847A.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.14.52:788][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.930 ms (total: 40.1 sec)
+[2025.05.15-13.14.52:850][364]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.14.52:850][364]LogContentValidation: Enabled validators:
+[2025.05.15-13.14.52:850][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.14.52:850][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.14.52:850][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.14.52:850][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.14.52:850][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.14.52:850][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.14.52:850][364]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.16.18:755][555]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_44
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:771][556]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_45
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:786][557]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_46
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:803][558]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_47
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:818][559]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_48
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:834][560]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_49
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:850][561]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_50
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:867][562]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_51
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:884][563]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_52
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:900][564]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_53
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:917][565]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_54
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:934][566]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_55
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:950][567]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_56
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:968][568]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_57
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.18:985][569]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Elephant_C /Engine/Transient.World_106:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Elephant_C_58
+	Function /Game/AfricanAnimalsPack/Elephant/Animations/ABP_Elephant.ABP_Elephant_C:ExecuteUbergraph_ABP_Elephant:0040
+[2025.05.15-13.16.23:337][817]LogStreaming: Display: FlushAsyncLoading(901): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-13.16.23:343][817]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1.ANIM_Elephant_TusksAttack1 (Required Memory Estimate: 0.48 MB)
+[2025.05.15-13.16.23:367][817]LogAnimationCompression: Display: Storing compressed animation data for /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1.ANIM_Elephant_TusksAttack1, at AnimationSequence/26b9354c274e63b6695cf33d52fa7416c69de74d
+[2025.05.15-13.16.23:370][817]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1.ANIM_Elephant_TusksAttack1
+[2025.05.15-13.16.23:370][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_117
+[2025.05.15-13.16.23:377][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_117:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.15-13.16.23:746][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_118
+[2025.05.15-13.16.24:232][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_119
+[2025.05.15-13.16.27:427][994]LogSlate: Window 'ANIM_Elephant_TusksAttack1' being destroyed
+[2025.05.15-13.16.27:480][994]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.16.27:480][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.16.27:492][994]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.16.27:492][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.16.27:572][994]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.16.27:572][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.16.27:644][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.15-13.16.35:831][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15987.284180
+[2025.05.15-13.16.36:008][474]LogContentBrowser: Deferred new asset file creation: ANIM_Elephant_TusksAttack1_Montage
+[2025.05.15-13.16.36:018][474]LogContentBrowser: Creating deferred item: ANIM_Elephant_TusksAttack1_Montage
+[2025.05.15-13.16.36:034][475]LogContentBrowser: Renaming the item being created (Deferred Item: ANIM_Elephant_TusksAttack1_Montage).
+[2025.05.15-13.16.36:331][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-13.16.36:331][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15987.768555, Update Interval: 303.017670
+[2025.05.15-13.16.39:074][658]LogContentBrowser: Attempting asset rename: ANIM_Elephant_TusksAttack1_Montage -> ANIM_Elephant_TusksAttack1_Montage
+[2025.05.15-13.16.39:088][658]LogContentBrowser: End creating deferred item ANIM_Elephant_TusksAttack1_Montage
+[2025.05.15-13.16.41:642][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.05.15-13.16.41:648][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.16.41:698][808]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage] ([1] browsable assets)...
+[2025.05.15-13.16.41:725][808]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage.ANIM_Elephant_TusksAttack1_Montage]
+[2025.05.15-13.16.41:725][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage]
+[2025.05.15-13.16.41:726][808]LogSavePackage: Moving output files for package: /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage
+[2025.05.15-13.16.41:726][808]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/ANIM_Elephant_TusksAttack1_Monta681E42914B77F07BF4E4E5B6AFF33F30.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage.uasset'
+[2025.05.15-13.16.41:738][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.209 ms (total: 40.2 sec)
+[2025.05.15-13.16.41:797][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.16.41:797][808]LogContentValidation: Enabled validators:
+[2025.05.15-13.16.41:797][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.16.41:797][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.16.41:797][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.16.41:797][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.16.41:797][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.16.41:797][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.16.41:797][808]AssetCheck: /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage Validating asset
+[2025.05.15-13.16.55:005][ 96]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage.ANIM_Elephant_TusksAttack1_Montage
+[2025.05.15-13.16.55:006][ 96]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_120
+[2025.05.15-13.16.55:015][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.15-13.16.55:395][ 96]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_121
+[2025.05.15-13.16.58:231][200]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_122
+[2025.05.15-13.17.00:552][334]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.17.00:552][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.17.00:613][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.15-13.17.05:957][600]LogSlate: Window 'ANIM_Elephant_TusksAttack1_Montage' being destroyed
+[2025.05.15-13.17.53:124][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.17.53:185][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage] ([1] browsable assets)...
+[2025.05.15-13.17.53:196][972]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage.ANIM_Elephant_TusksAttack1_Montage]
+[2025.05.15-13.17.53:196][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage]
+[2025.05.15-13.17.53:197][972]LogSavePackage: Moving output files for package: /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage
+[2025.05.15-13.17.53:198][972]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/ANIM_Elephant_TusksAttack1_Monta84978BBD432116D918E1BD82A0C98784.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage.uasset'
+[2025.05.15-13.17.53:207][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.680 ms (total: 40.2 sec)
+[2025.05.15-13.17.53:264][972]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.17.53:264][972]LogContentValidation: Enabled validators:
+[2025.05.15-13.17.53:264][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.17.53:264][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.17.53:264][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.17.53:264][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.17.53:264][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.17.53:264][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.17.53:264][972]AssetCheck: /Game/AfricanAnimalsPack/Elephant/Animations/ANIM_Elephant_TusksAttack1_Montage Validating asset
+[2025.05.15-13.17.53:577][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.15-13.18.31:075][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.05.15-13.18.32:264][281]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.18.32:266][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.18.32:346][281]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.18.32:346][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.18.32:378][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.15-13.18.51:284][388]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_60
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.18.54:590][582]LogStreaming: Display: FlushAsyncLoading(902): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.15-13.18.54:602][582]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite.ANIM_Hippopotamus_Bite (Required Memory Estimate: 0.27 MB)
+[2025.05.15-13.18.54:606][582]LogAnimationCompression: Display: Storing compressed animation data for /Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite.ANIM_Hippopotamus_Bite, at AnimationSequence/7725a2585eb50c1e559881205facbd15899329a7
+[2025.05.15-13.18.54:608][582]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite.ANIM_Hippopotamus_Bite
+[2025.05.15-13.18.54:608][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_123
+[2025.05.15-13.18.54:618][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_123:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.15-13.18.54:992][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_124
+[2025.05.15-13.18.55:462][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_125
+[2025.05.15-13.18.58:481][726]LogSlate: Window 'ANIM_Hippopotamus_Bite' being destroyed
+[2025.05.15-13.18.58:525][726]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.18.58:525][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.18.58:538][726]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.18.58:538][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.18.58:619][726]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.18.58:619][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.18.58:690][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.05.15-13.19.04:546][ 59]LogContentBrowser: Deferred new asset file creation: ANIM_Hippopotamus_Bite_Montage
+[2025.05.15-13.19.04:555][ 59]LogContentBrowser: Creating deferred item: ANIM_Hippopotamus_Bite_Montage
+[2025.05.15-13.19.04:570][ 60]LogContentBrowser: Renaming the item being created (Deferred Item: ANIM_Hippopotamus_Bite_Montage).
+[2025.05.15-13.19.05:960][144]LogContentBrowser: Attempting asset rename: ANIM_Hippopotamus_Bite_Montage -> ANIM_Hippopotamus_Bite_Montage
+[2025.05.15-13.19.05:961][144]LogContentBrowser: End creating deferred item ANIM_Hippopotamus_Bite_Montage
+[2025.05.15-13.19.06:402][167]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite_Montage.ANIM_Hippopotamus_Bite_Montage
+[2025.05.15-13.19.06:403][167]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_126
+[2025.05.15-13.19.06:411][167]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_126:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.05.15-13.19.06:777][167]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_127
+[2025.05.15-13.19.37:520][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.15-13.19.37:525][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.19.37:581][356]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite_Montage] ([1] browsable assets)...
+[2025.05.15-13.19.37:592][356]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite_Montage.ANIM_Hippopotamus_Bite_Montage]
+[2025.05.15-13.19.37:592][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite_Montage]
+[2025.05.15-13.19.37:593][356]LogSavePackage: Moving output files for package: /Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite_Montage
+[2025.05.15-13.19.37:593][356]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/ANIM_Hippopotamus_Bite_Montage706AF0F34FE6E47511BBE1BF1F3E8093.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite_Montage.uasset'
+[2025.05.15-13.19.37:619][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.841 ms (total: 40.3 sec)
+[2025.05.15-13.19.37:683][356]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.19.37:683][356]LogContentValidation: Enabled validators:
+[2025.05.15-13.19.37:683][356]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.19.37:683][356]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.19.37:683][356]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.19.37:683][356]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.19.37:683][356]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.19.37:683][356]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.19.37:683][356]AssetCheck: /Game/AfricanAnimalsPack/Hippopotamus/Animations/ANIM_Hippopotamus_Bite_Montage Validating asset
+[2025.05.15-13.19.39:027][423]LogSlate: Window 'ANIM_Hippopotamus_Bite_Montage' being destroyed
+[2025.05.15-13.19.50:819][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.15-13.19.51:444][554]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.19.51:444][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.19.51:528][554]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.19.51:528][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.19.51:562][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.05.15-13.20.00:123][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.15-13.20.04:876][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.05.15-13.20.05:623][945]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.20.05:623][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.20.05:735][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.05.15-13.20.06:902][  8]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_61
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.06:924][  9]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_62
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.06:942][ 10]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_63
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.06:965][ 11]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_64
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.06:987][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_65
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.07:006][ 13]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_66
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.07:025][ 14]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_67
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.07:049][ 15]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Hippo_C /Engine/Transient.World_78:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hippo_C_68
+	Function /Game/AfricanAnimalsPack/Hippopotamus/Animations/ABP_Hippo.ABP_Hippo_C:ExecuteUbergraph_ABP_Hippo:0040
+[2025.05.15-13.20.19:392][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.15-13.20.23:717][910]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Animals/BP_Animal_Elephant.BP_Animal_Elephant
+[2025.05.15-13.20.23:717][910]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_128
+[2025.05.15-13.21.00:673][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.05.15-13.21.00:678][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.21.00:723][188]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Animals/BP_Animal_Elephant] ([2] browsable assets)...
+[2025.05.15-13.21.00:745][188]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Animals/BP_Animal_Elephant.BP_Animal_Elephant]
+[2025.05.15-13.21.00:745][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal_Elephant]
+[2025.05.15-13.21.00:745][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal_Elephant" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal_Elephant.uasset" SILENT=true
+[2025.05.15-13.21.00:749][188]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal_Elephant
+[2025.05.15-13.21.00:749][188]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal_ElephantD74B87BC4D6A70FAA5D4EC83C0709354.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal_Elephant.uasset'
+[2025.05.15-13.21.00:757][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.021 ms (total: 40.4 sec)
+[2025.05.15-13.21.00:807][188]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.21.00:807][188]LogContentValidation: Enabled validators:
+[2025.05.15-13.21.00:807][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.21.00:807][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.21.00:807][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.21.00:807][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.21.00:807][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.21.00:807][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.21.00:808][188]AssetCheck: /Game/Blueprints/Animals/BP_Animal_Elephant Validating asset
+[2025.05.15-13.21.02:991][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.15-13.21.03:491][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.05.15-13.21.30:685][592]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.21.30:685][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.21.30:770][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.15-13.21.34:275][773]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Animals/BP_Animal_Hippo.BP_Animal_Hippo
+[2025.05.15-13.21.34:275][773]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_129
+[2025.05.15-13.21.40:776][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.15-13.21.41:246][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.15-13.21.41:254][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.21.41:297][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Animals/BP_Animal_Hippo] ([2] browsable assets)...
+[2025.05.15-13.21.41:324][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Animals/BP_Animal_Hippo.BP_Animal_Hippo]
+[2025.05.15-13.21.41:324][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal_Hippo]
+[2025.05.15-13.21.41:324][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal_Hippo" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal_Hippo.uasset" SILENT=true
+[2025.05.15-13.21.41:328][135]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal_Hippo
+[2025.05.15-13.21.41:328][135]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal_Hippo6FB7462E4E5F86BA129D458E4EB74769.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal_Hippo.uasset'
+[2025.05.15-13.21.41:337][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.172 ms (total: 40.5 sec)
+[2025.05.15-13.21.41:397][135]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.21.41:397][135]LogContentValidation: Enabled validators:
+[2025.05.15-13.21.41:397][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.21.41:397][135]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.21.41:397][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.21.41:397][135]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.21.41:397][135]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.21.41:397][135]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.21.41:398][135]AssetCheck: /Game/Blueprints/Animals/BP_Animal_Hippo Validating asset
+[2025.05.15-13.21.42:248][185]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.21.42:248][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.21.42:331][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.15-13.21.44:492][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.15-13.21.44:518][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.15-13.21.44:518][306]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.21.44:542][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022880s)
+[2025.05.15-13.21.44:542][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Desert.Desert to /Game/Levels/UEDPIE_0_Desert.Desert (0.022936s)
+[2025.05.15-13.21.44:564][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.05.15-13.21.44:566][306]LogChaosDD: Creating Chaos Debug Draw Scene for world Desert
+[2025.05.15-13.21.44:567][306]LogPlayLevel: PIE: World Init took: (0.002013s)
+[2025.05.15-13.21.44:568][306]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.05.15-13.21.44:568][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.15-13.21.44:568][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.15-13.21.44:568][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.15-13.21.44:568][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.15-13.21.44:568][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.15-13.21.44:568][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.15-13.21.44:568][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.15-13.21.44:568][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.15-13.21.44:568][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.15-13.21.44:568][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.15-13.21.44:568][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.15-13.21.44:570][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.15-13.21.44:590][306]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.15-13.21.44:590][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.15-13.21.44:590][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.15-13.21.44:590][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.15-13.21.44:591][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.05.15-13.21.44:591][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.05.15-13.21.44:593][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.05.15-13.21.44:593][306]LogInit: FAudioDevice initialized with ID 48.
+[2025.05.15-13.21.44:593][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.05.15-13.21.44:593][306]LogAudio: Display: Audio Device (ID: 48) registered with world 'Desert'.
+[2025.05.15-13.21.44:593][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.05.15-13.21.44:596][306]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.15-13.21.44:603][306]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Desert.Desert up for play (max tick rate 60) at 2025.05.15-17.21.44
+[2025.05.15-13.21.44:605][306]LogWorld: Bringing up level for play took: 0.008327
+[2025.05.15-13.21.44:608][306]LogOnline: OSS: Created online subsystem instance for: :Context_177
+[2025.05.15-13.21.44:610][306]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.05.15-13.21.44:610][306]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/Levels/UEDPIE_0_Desert.Desert:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.05.15-13.21.44:618][306]PIE: Server logged in
+[2025.05.15-13.21.44:618][306]PIE: Play in editor total start time 0,103 seconds.
+[2025.05.15-13.22.06:873][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.22.06:873][604]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.22.06:874][604]LogWorld: UWorld::CleanupWorld for Desert, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.22.06:875][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.22.06:879][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.15-13.22.06:887][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.22.06:911][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.22.06:911][604]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.05.15-13.22.06:911][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.05.15-13.22.06:913][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.05.15-13.22.06:923][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.05.15-13.22.07:017][605]LogPlayLevel: Display: Destroying online subsystem :Context_177
+[2025.05.15-13.22.13:918][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16325.205078
+[2025.05.15-13.22.14:119][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-13.22.14:119][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16325.389648, Update Interval: 324.062622
+[2025.05.15-13.22.49:793][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Animals/BP_Animal.BP_Animal
+[2025.05.15-13.22.49:793][417]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_130
+[2025.05.15-13.23.01:881][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.05.15-13.23.02:258][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.05.15-13.23.02:266][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.23.02:333][ 89]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.23.02:333][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.23.02:333][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.23.02:343][ 89]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.23.02:343][ 89]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal94D3882442EDAAB4221993A712FAF68F.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.23.02:352][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.999 ms (total: 40.6 sec)
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: Enabled validators:
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.23.02:414][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.23.02:414][ 89]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.23.28:216][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.15-13.23.28:599][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.05.15-13.23.28:609][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.23.28:675][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.23.28:675][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.23.28:675][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.23.28:685][613]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.23.28:686][613]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalF10E617547C6DAA1C72F2AAB799772C8.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.23.28:693][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.807 ms (total: 40.7 sec)
+[2025.05.15-13.23.28:758][613]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.23.28:758][613]LogContentValidation: Enabled validators:
+[2025.05.15-13.23.28:758][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.23.28:758][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.23.28:758][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.23.28:758][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.23.28:758][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.23.28:758][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.23.28:758][613]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.23.34:584][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.15-13.23.34:593][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.15-13.23.34:593][732]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.23.34:616][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022457s)
+[2025.05.15-13.23.34:616][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Desert.Desert to /Game/Levels/UEDPIE_0_Desert.Desert (0.022517s)
+[2025.05.15-13.23.34:640][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.05.15-13.23.34:641][732]LogChaosDD: Creating Chaos Debug Draw Scene for world Desert
+[2025.05.15-13.23.34:643][732]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2025.05.15-13.23.34:645][732]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.05.15-13.23.34:645][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.15-13.23.34:645][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.15-13.23.34:645][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.15-13.23.34:645][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.15-13.23.34:645][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.15-13.23.34:645][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.15-13.23.34:645][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.15-13.23.34:645][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.15-13.23.34:645][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.15-13.23.34:645][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.15-13.23.34:645][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.15-13.23.34:646][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.15-13.23.34:665][732]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.15-13.23.34:665][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.15-13.23.34:665][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.15-13.23.34:665][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.15-13.23.34:665][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.05.15-13.23.34:665][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.05.15-13.23.34:668][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.05.15-13.23.34:668][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.05.15-13.23.34:668][732]LogInit: FAudioDevice initialized with ID 49.
+[2025.05.15-13.23.34:668][732]LogAudio: Display: Audio Device (ID: 49) registered with world 'Desert'.
+[2025.05.15-13.23.34:668][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.05.15-13.23.34:717][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.23.34:718][732]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.15-13.23.34:725][732]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Desert.Desert up for play (max tick rate 60) at 2025.05.15-17.23.34
+[2025.05.15-13.23.34:727][732]LogWorld: Bringing up level for play took: 0.009147
+[2025.05.15-13.23.34:730][732]LogOnline: OSS: Created online subsystem instance for: :Context_179
+[2025.05.15-13.23.34:733][732]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.05.15-13.23.34:733][732]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/Levels/UEDPIE_0_Desert.Desert:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.05.15-13.23.34:743][732]PIE: Server logged in
+[2025.05.15-13.23.34:745][732]PIE: Play in editor total start time 0,155 seconds.
+[2025.05.15-13.24.07:183][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.24.07:183][297]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.24.07:184][297]LogSlate: Window 'RPG Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.15-13.24.07:213][297]LogWorld: UWorld::CleanupWorld for Desert, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.24.07:214][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.24.07:218][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.15-13.24.07:227][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.24.07:252][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.05.15-13.24.07:252][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.05.15-13.24.07:254][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.05.15-13.24.07:263][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.05.15-13.24.07:340][298]LogPlayLevel: Display: Destroying online subsystem :Context_179
+[2025.05.15-13.24.32:052][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.05.15-13.24.32:650][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.05.15-13.24.32:656][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.24.32:715][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.24.32:715][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.24.32:715][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.24.32:725][383]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.24.32:725][383]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal7C34F20A4E3301149CD39DAEEE39074B.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.24.32:734][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.951 ms (total: 40.7 sec)
+[2025.05.15-13.24.32:797][383]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.24.32:797][383]LogContentValidation: Enabled validators:
+[2025.05.15-13.24.32:797][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.24.32:797][383]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.24.32:797][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.24.32:797][383]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.24.32:797][383]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.24.32:797][383]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.24.32:797][383]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.24.44:876][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.05.15-13.24.44:882][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.24.44:942][ 85]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.24.44:942][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.24.44:942][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.24.44:952][ 85]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.24.44:953][ 85]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal43AA5798489532396E961BA9416F416D.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.24.44:964][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.380 ms (total: 40.8 sec)
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: Enabled validators:
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.24.45:026][ 85]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.24.45:026][ 85]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.24.46:287][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.15-13.24.46:295][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.15-13.24.46:296][160]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.24.46:318][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022202s)
+[2025.05.15-13.24.46:318][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Desert.Desert to /Game/Levels/UEDPIE_0_Desert.Desert (0.022238s)
+[2025.05.15-13.24.46:340][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.15-13.24.46:342][160]LogChaosDD: Creating Chaos Debug Draw Scene for world Desert
+[2025.05.15-13.24.46:343][160]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2025.05.15-13.24.46:345][160]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2025.05.15-13.24.46:345][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.15-13.24.46:345][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.15-13.24.46:345][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.15-13.24.46:345][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.15-13.24.46:345][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.15-13.24.46:345][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.15-13.24.46:345][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.15-13.24.46:345][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.15-13.24.46:345][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.15-13.24.46:345][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.15-13.24.46:345][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.15-13.24.46:347][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.15-13.24.46:364][160]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.15-13.24.46:364][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.15-13.24.46:364][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.15-13.24.46:364][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.15-13.24.46:364][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2025.05.15-13.24.46:364][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2025.05.15-13.24.46:368][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2025.05.15-13.24.46:368][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2025.05.15-13.24.46:368][160]LogInit: FAudioDevice initialized with ID 50.
+[2025.05.15-13.24.46:368][160]LogAudio: Display: Audio Device (ID: 50) registered with world 'Desert'.
+[2025.05.15-13.24.46:368][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2025.05.15-13.24.46:427][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.24.46:427][160]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.15-13.24.46:435][160]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Desert.Desert up for play (max tick rate 60) at 2025.05.15-17.24.46
+[2025.05.15-13.24.46:437][160]LogWorld: Bringing up level for play took: 0.009353
+[2025.05.15-13.24.46:438][160]LogOnline: OSS: Created online subsystem instance for: :Context_180
+[2025.05.15-13.24.46:441][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.05.15-13.24.46:441][160]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/Levels/UEDPIE_0_Desert.Desert:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.05.15-13.24.46:450][160]PIE: Server logged in
+[2025.05.15-13.24.46:454][160]PIE: Play in editor total start time 0,161 seconds.
+[2025.05.15-13.25.17:433][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.25.17:433][814]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.25.17:434][814]LogSlate: Window 'RPG Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.15-13.25.17:447][814]LogWorld: UWorld::CleanupWorld for Desert, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.25.17:448][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.25.17:452][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.15-13.25.17:460][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.25.17:482][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2025.05.15-13.25.17:482][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.05.15-13.25.17:485][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.05.15-13.25.17:493][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.15-13.25.17:579][815]LogPlayLevel: Display: Destroying online subsystem :Context_180
+[2025.05.15-13.26.11:401][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.05.15-13.26.11:677][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.15-13.26.11:685][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.26.11:745][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.26.11:745][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.26.11:745][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.26.11:757][ 43]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.26.11:757][ 43]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalD52219EB4C39824CEA424BA26D2AEAE1.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.26.11:767][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.457 ms (total: 40.9 sec)
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: Enabled validators:
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.26.11:828][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.26.11:828][ 43]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.26.28:363][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.05.15-13.26.28:669][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.05.15-13.26.28:677][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.26.28:739][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Desert" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Levels/Desert.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.15-13.26.28:790][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.05.15-13.26.29:185][409]LogSavePackage: Moving output files for package: /Game/Levels/Desert
+[2025.05.15-13.26.29:186][409]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/Desert575017C9442AF3A0408B68A6771CD6C2.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Levels/Desert.umap'
+[2025.05.15-13.26.29:206][409]LogFileHelpers: Saving map 'Desert' took 0.467
+[2025.05.15-13.26.29:206][409]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.26.29:206][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.26.29:206][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.26.29:217][409]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.26.29:217][409]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalA20C1AFB4ADC906412E81297BE749C7F.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.26.29:226][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 549.293 ms (total: 41.5 sec)
+[2025.05.15-13.26.29:288][409]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.15-13.26.29:288][409]LogContentValidation: Enabled validators:
+[2025.05.15-13.26.29:288][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.26.29:288][409]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.26.29:290][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.26.29:290][409]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.26.29:290][409]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.26.29:290][409]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.26.29:290][409]AssetCheck: /Game/Levels/Desert Validating asset
+[2025.05.15-13.26.29:290][409]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.27.57:278][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.05.15-13.27.57:654][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.05.15-13.27.57:660][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.27.57:720][747]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.27.57:720][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.27.57:720][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.27.57:732][747]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.27.57:732][747]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalB3C2B8534783EEE8294DC0ACD620C77C.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.27.57:742][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.982 ms (total: 41.5 sec)
+[2025.05.15-13.27.57:803][747]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.27.57:803][747]LogContentValidation: Enabled validators:
+[2025.05.15-13.27.57:803][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.27.57:803][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.27.57:803][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.27.57:803][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.27.57:803][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.27.57:803][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.27.57:803][747]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.28.26:915][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.05.15-13.28.27:155][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.15-13.28.27:162][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.28.27:221][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.28.27:221][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.28.27:221][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.28.27:234][806]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.28.27:234][806]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal7C6FC97346B18F09566939979B9955A9.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.28.27:243][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.163 ms (total: 41.6 sec)
+[2025.05.15-13.28.27:285][806]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.28.27:285][806]LogContentValidation: Enabled validators:
+[2025.05.15-13.28.27:285][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.28.27:285][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.28.27:285][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.28.27:285][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.28.27:285][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.28.27:285][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.28.27:285][806]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.28.31:921][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16703.804688
+[2025.05.15-13.28.32:921][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.15-13.28.32:921][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16704.472656, Update Interval: 352.118896
+[2025.05.15-13.28.43:148][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.15-13.28.43:424][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.15-13.28.43:430][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.28.43:493][307]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.28.43:493][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.28.43:493][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.28.43:505][307]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.28.43:505][307]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalCD9DE62C4853D3B39AA0638A0759B15B.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.28.43:513][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.883 ms (total: 41.7 sec)
+[2025.05.15-13.28.43:576][307]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.28.43:576][307]LogContentValidation: Enabled validators:
+[2025.05.15-13.28.43:576][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.28.43:576][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.28.43:576][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.28.43:576][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.28.43:576][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.28.43:576][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.28.43:576][307]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.29.35:008][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.05.15-13.29.35:015][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.29.35:075][990]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.29.35:075][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.29.35:075][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.29.35:087][990]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.29.35:088][990]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal9AA3107948CF63426F3864948491067C.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.29.35:098][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.702 ms (total: 41.8 sec)
+[2025.05.15-13.29.35:157][990]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.29.35:157][990]LogContentValidation: Enabled validators:
+[2025.05.15-13.29.35:157][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.29.35:157][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.29.35:158][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.29.35:158][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.29.35:158][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.29.35:158][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.29.35:158][990]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.30.38:578][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.05.15-13.30.38:583][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.30.38:648][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.30.38:648][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.30.38:648][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.30.38:659][406]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.30.38:659][406]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_AnimalBA1585E042D4CCEA3151B1A943A30E0F.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.30.38:670][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.552 ms (total: 41.9 sec)
+[2025.05.15-13.30.38:712][406]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.30.38:712][406]LogContentValidation: Enabled validators:
+[2025.05.15-13.30.38:712][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.30.38:712][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.30.38:712][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.30.38:712][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.30.38:712][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.30.38:712][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.30.38:712][406]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.31.36:652][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.15-13.31.37:336][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.05.15-13.31.37:342][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.31.37:401][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.31.37:401][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.31.37:401][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.31.37:413][125]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.31.37:413][125]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal3D532E2B451D4F4ED3DC828170D14674.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.31.37:424][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.648 ms (total: 42.0 sec)
+[2025.05.15-13.31.37:483][125]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.31.37:483][125]LogContentValidation: Enabled validators:
+[2025.05.15-13.31.37:483][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.31.37:483][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.31.37:483][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.31.37:483][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.31.37:483][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.31.37:483][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.31.37:484][125]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.32.06:133][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.05.15-13.32.06:138][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.15-13.32.06:205][524]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Animals/BP_Animal] ([2] browsable assets)...
+[2025.05.15-13.32.06:205][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animals/BP_Animal]
+[2025.05.15-13.32.06:205][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animals/BP_Animal" FILE="E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset" SILENT=true
+[2025.05.15-13.32.06:216][524]LogSavePackage: Moving output files for package: /Game/Blueprints/Animals/BP_Animal
+[2025.05.15-13.32.06:217][524]LogSavePackage: Moving 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Saved/BP_Animal60CBBF0246F3C7BCF429AEAF20D37B69.tmp' to 'E:/OldCoddingAndYTSaves/Zz_Coding_zZ/RPGGame/RPG/Content/Blueprints/Animals/BP_Animal.uasset'
+[2025.05.15-13.32.06:227][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.996 ms (total: 42.0 sec)
+[2025.05.15-13.32.06:285][524]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.15-13.32.06:285][524]LogContentValidation: Enabled validators:
+[2025.05.15-13.32.06:285][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.15-13.32.06:285][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.15-13.32.06:285][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.15-13.32.06:285][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.15-13.32.06:285][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.15-13.32.06:285][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.15-13.32.06:285][524]AssetCheck: /Game/Blueprints/Animals/BP_Animal Validating asset
+[2025.05.15-13.32.08:176][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.15-13.32.08:884][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.05.15-13.32.26:147][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.15-13.32.26:156][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.15-13.32.26:156][802]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.32.26:179][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023365s)
+[2025.05.15-13.32.26:179][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Desert.Desert to /Game/Levels/UEDPIE_0_Desert.Desert (0.023435s)
+[2025.05.15-13.32.26:205][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.05.15-13.32.26:206][802]LogChaosDD: Creating Chaos Debug Draw Scene for world Desert
+[2025.05.15-13.32.26:208][802]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2025.05.15-13.32.26:209][802]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2025.05.15-13.32.26:209][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.15-13.32.26:209][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.15-13.32.26:209][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.15-13.32.26:209][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.15-13.32.26:209][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.15-13.32.26:209][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.15-13.32.26:209][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.15-13.32.26:209][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.15-13.32.26:209][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.15-13.32.26:209][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.15-13.32.26:209][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.15-13.32.26:211][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.15-13.32.26:229][802]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.05.15-13.32.26:230][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.15-13.32.26:230][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.15-13.32.26:230][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.15-13.32.26:230][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2025.05.15-13.32.26:230][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2025.05.15-13.32.26:234][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2025.05.15-13.32.26:234][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2025.05.15-13.32.26:234][802]LogInit: FAudioDevice initialized with ID 51.
+[2025.05.15-13.32.26:234][802]LogAudio: Display: Audio Device (ID: 51) registered with world 'Desert'.
+[2025.05.15-13.32.26:234][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2025.05.15-13.32.26:286][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.32.26:287][802]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.15-13.32.26:295][802]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Desert.Desert up for play (max tick rate 60) at 2025.05.15-17.32.26
+[2025.05.15-13.32.26:297][802]LogWorld: Bringing up level for play took: 0.010088
+[2025.05.15-13.32.26:299][802]LogOnline: OSS: Created online subsystem instance for: :Context_181
+[2025.05.15-13.32.26:302][802]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.05.15-13.32.26:302][802]LogScript: Warning: Script Msg called by: ABP_RPGCharacter_C /Game/Levels/UEDPIE_0_Desert.Desert:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_RPGCharacter_C_0
+[2025.05.15-13.32.26:314][802]PIE: Server logged in
+[2025.05.15-13.32.26:316][802]PIE: Play in editor total start time 0,162 seconds.
+[2025.05.15-13.32.51:054][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.15-13.32.51:054][ 96]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Desert
+[2025.05.15-13.32.51:055][ 96]LogSlate: Window 'RPG Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.15-13.32.51:070][ 96]LogWorld: UWorld::CleanupWorld for Desert, bSessionEnded=true, bCleanupResources=true
+[2025.05.15-13.32.51:071][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.32.51:074][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.15-13.32.51:081][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.15-13.32.51:106][ 96]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2025.05.15-13.32.51:106][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.05.15-13.32.51:108][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.05.15-13.32.51:117][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.05.15-13.32.51:194][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_181
+[2025.05.15-13.32.53:882][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
