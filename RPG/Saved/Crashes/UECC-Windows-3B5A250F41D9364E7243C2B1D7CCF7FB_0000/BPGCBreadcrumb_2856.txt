@@ -1,0 +1,2 @@
+/Game/Equipment_System/UI/WB_Equipment.Default__WB_Equipment_C
+/Game/Equipment_System/UI/WB_Equipment.WB_Equipment_C
